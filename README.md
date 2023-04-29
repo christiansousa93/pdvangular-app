@@ -1,4 +1,4 @@
-<h1  align="center">Bem vindo ao PDV Web!</h1>
+<h1  align="center">PDV WEB</h1>
 <p  align="center">
 
 <img  src="https://i.ibb.co/S69XqSw/logopdv.png" />
@@ -29,22 +29,21 @@ Disponibilizar um projeto de código fonte **Open Source** de um sistema de vend
 
 ## O sistema
 
-### Dashboard
-![](https://i.ibb.co/SVVBrJ2/dashboard.png)
+### Inicio
+![235325541-ce438af4-964d-4413-bf3b-6c963e63585e](https://user-images.githubusercontent.com/103544118/235325625-9a64cbdb-21e6-4f87-9746-e994e697f1cf.png)
+
+![235325559-b593ba7e-805c-4bf3-88ad-68fa0b1f9c17](https://user-images.githubusercontent.com/103544118/235325701-fe1f7259-46a9-432a-9d8c-1151e7970933.gif)
+
 
 ### PDV
 
-![](https://i.ibb.co/QrW4mMw/pdv.png)
+![235325550-1f548713-d977-4e3b-9be1-a9a91b74a970](https://user-images.githubusercontent.com/103544118/235325681-9627fa57-d001-4f23-acfd-bbd4852edc83.gif)
+
 
 ### Produto
 
-![](https://i.ibb.co/HXVssNT/cad-Produto.png)
+![235325555-d8a0d286-0276-4b4e-9cc2-b02949d4f69e](https://user-images.githubusercontent.com/103544118/235325689-39ab8fa9-0165-4fae-96ab-6aa4c6ed459a.gif)
 
-![](https://i.ibb.co/LnPxG4r/list-Produto.png)
-
-## Swagger Documentation
-
-![](https://i.ibb.co/N3vy5Dk/Swagger.png)
 
 ## Pré-requisitos
 
@@ -68,13 +67,13 @@ https://nodejs.org/en/download/
 
 ```
 
-1 - Git clone
+1 - Git clone: https://github.com/christiansousa93/pdvangular-app
 
 2 - Abrir projeto na IDE Visual Studio Code
 
 3 - No terminal, na pasta do projeto executar os comando abaixo
 
-4 - npm install @angular/cli@ 12.1.3
+4 - npm install i @angular/cli@ 12.1.3
 
 5 - ng serve --open
 
@@ -92,7 +91,7 @@ localhost:4200
 
 ## Instalação API
 
-1 - Git clone
+1 - Git clone: https://github.com/christiansousa93/pdvjava-api
 
 2 - Faça o download e instalação padrão do Docker
 
